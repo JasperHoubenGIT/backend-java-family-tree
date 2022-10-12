@@ -83,3 +83,4 @@ Als je de bonusopdrachten maakt, zorg dan dat deze ook getest worden!
 3. Voeg een partner toe aan de `Person` en implementeer deze partner door de gehele applicatie inclusief getter & setter en benodigde methodes.
 # huiswerk_familyTree
 # huiswerk_familyTree
+# backend-java-family-tree
