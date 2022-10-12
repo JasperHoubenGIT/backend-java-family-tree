@@ -81,3 +81,4 @@ Als je de bonusopdrachten maakt, zorg dan dat deze ook getest worden!
 1. Schrijf een methode om alle dieren van de kleinkinderen terug te geven van een persoon. 
 2. Schrijf een methode om alle nichtjes terug te geven van een persoon.
 3. Voeg een partner toe aan de `Person` en implementeer deze partner door de gehele applicatie inclusief getter & setter en benodigde methodes.
+# huiswerk_familyTree
